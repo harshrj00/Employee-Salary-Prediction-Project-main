@@ -168,7 +168,7 @@ Thanks for checking out my project! If you found it useful, please consider:
 -  **Reporting** issues  
 -  **Contributing** improvements  
 
-Coded by **Sitesh Gupta**  
-🔗 www.linkedin.com/in/guptasitesh |  Email-guptasitesh05@email.com
+Coded by **Harsh Raj**  
+Email-harshray205@email.com
 
 -------------------------------------------
