@@ -135,7 +135,7 @@ Employee-Salary-Prediction-Project/
 
 1. **Clone the repository**
 ```
-   git clone https://github.com/Siteshgupta123/Employee-Salary-Prediction-Project.git
+   git clone https://github.com/harshrj00/Employee-Salary-Prediction-Project.git
    cd Employee-Salary-Prediction-Project
 ```
 2. **Create a virtual environment (optional but recommended)**
@@ -163,7 +163,7 @@ You can deploy this project on **Render**, **Streamlit Community Cloud**, or any
 ## Thank You! 
 
 Thanks for checking out my project! If you found it useful, please consider:  
-[![GitHub stars](https://github.com/Siteshgupta123)] 
+[![GitHub stars](https://github.com/harshrj00)] 
 - **Starring** the repo  
 -  **Reporting** issues  
 -  **Contributing** improvements  
